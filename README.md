@@ -6,10 +6,13 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### Badges
+![Microsoft Office Course Completion](https://img.shields.io/badge/Microsoft%20Office%20Course-Completed-red)
+
 ![Java Course Completion](https://img.shields.io/badge/Java%20Course-Completed-blue)
 
 ![Data Analyst Course Completion](https://img.shields.io/badge/Data%20Analyst%20Course-Completed-brightgreen)
 
+![Currently Working on CCNA](https://img.shields.io/badge/Currently%20Working%20on-CCNA-orange)
 
 ### GitHub Stats
 
