@@ -14,6 +14,8 @@ You can click the Preview link to take a look at your changes.
 
 ![Currently Working on CCNA](https://img.shields.io/badge/Currently%20Working%20on-CCNA-orange)
 
+![Passionate about Machine Learning](https://img.shields.io/badge/Passionate%20about-Machine%20Learning-pink)
+
 ### GitHub Stats
 
 ![Mohammed Abed Alkareem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohammed-Abed-Alkareem&show_icons=true&theme=radical)
