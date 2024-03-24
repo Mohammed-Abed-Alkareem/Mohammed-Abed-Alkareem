@@ -6,6 +6,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### Badges
+![Java Course Completion](https://img.shields.io/badge/Java%20Course-Completed-blue)
 
 ![Data Analyst Course Completion](https://img.shields.io/badge/Data%20Analyst%20Course-Completed-brightgreen)
 
