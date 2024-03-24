@@ -4,6 +4,12 @@ Passionate Computer Engineering Student
 Mohammed-Abed-Alkareem/Mohammed-Abed-Alkareem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+### Badges
+
+![Data Analyst Course Completion](https://img.shields.io/badge/Data%20Analyst%20Course-Completed-brightgreen)
+
+
 ### GitHub Stats
 
 ![Mohammed Abed Alkareem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohammed-Abed-Alkareem&show_icons=true&theme=radical)
