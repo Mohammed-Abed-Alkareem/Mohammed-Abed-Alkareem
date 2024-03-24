@@ -5,7 +5,6 @@ Mohammed-Abed-Alkareem/Mohammed-Abed-Alkareem is a ✨ special ✨ repository be
 You can click the Preview link to take a look at your changes.
 --->
 
-### Badges
 ![Microsoft Office Course Completion](https://img.shields.io/badge/Microsoft%20Office%20Course-Completed-red)
 
 ![Java Course Completion](https://img.shields.io/badge/Java%20Course-Completed-blue)
