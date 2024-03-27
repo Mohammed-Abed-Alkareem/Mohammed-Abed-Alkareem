@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Mohammed Abed Alkareem
+
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMohammed-Abed-Alkareem%2FMohammed-Abed-Alkareem&countColor=%23263759" style="float: right;" />
+
 Passionate Computer Engineering Student
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mohammed-Abed-Alkareem.Mohammed-Abed-Alkareem" />
 
 
 <!---
