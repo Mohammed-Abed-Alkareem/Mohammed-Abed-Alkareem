@@ -28,3 +28,8 @@ You can click the Preview link to take a look at your changes.
 ### Top Languages
 
 ![Mohammed Abed Alkareem's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Abed-Alkareem&layout=compact&theme=radical)
+
+### Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Abed-Alkareem)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
