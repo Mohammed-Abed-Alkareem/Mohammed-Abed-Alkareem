@@ -30,4 +30,4 @@ You can click the Preview link to take a look at your changes.
 ![Mohammed Abed Alkareem's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Abed-Alkareem&layout=compact&theme=radical)
 
 ### Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mohammed-Abed-Alkareem&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mohammed-Abed-Alkareem&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
