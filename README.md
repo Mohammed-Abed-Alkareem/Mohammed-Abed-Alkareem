@@ -23,7 +23,8 @@ You can click the Preview link to take a look at your changes.
 
 ### GitHub Stats
 
-![Mohammed Abed Alkareem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohammed-Abed-Alkareem&show_icons=true&theme=radical)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohammed-Abed-Alkareem&count_private=true&show_icons=true&include_all_commits=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+  
 
 ### Top Languages
 
