@@ -19,9 +19,15 @@ I'm on a journey to blend cutting-edge AI with sleek web applications. As I comp
 
 
 
-| Programming Languages | Web Technologies          | Tools & DevOps           | AI & Machine Learning                      |
-|:---------------------:|:-------------------------:|:------------------------:|:------------------------------------------:|
-| ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) <br> ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) <br> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) <br>   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) <br> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) <br> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) <br> ![MediaPipe](https://img.shields.io/badge/MediaPipe-FFCA28?style=flat) |
+
+
+| Category                  | Technologies |
+|---------------------------|-------------|
+| **Programming Languages** | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) <br> ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) <br> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **Web Technologies**      | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) <br> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) <br> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **Tools & DevOps**        | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) <br> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+| **AI & Machine Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) <br> ![MediaPipe](https://img.shields.io/badge/MediaPipe-FFCA28?style=flat) |
+
 
 
 ## 💡 My Journey in a Nutshell
