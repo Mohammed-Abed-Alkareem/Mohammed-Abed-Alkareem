@@ -1,25 +1,25 @@
+Got it! Here's the updated version of your README with the correct title:
+
+---
+
 # Hi, I'm Mohammed Abed Alkareem 👋
 
-> **Computer Engineering Student | AI Enthusiast | Backend DevOps Intern**
+> **Computer Engineering Student | AI Enthusiast | Backend Intern**
 
-I'm on a journey to blend cutting-edge AI with sleek web applications. As I complete my final semester on the AI track, I'm also gaining hands-on experience as a Backend DevOps Intern—exploring cloud infrastructures, CI/CD pipelines, and automation.
+I'm a final semester Computer Engineering student specializing in AI, passionate about creating intelligent systems and seamless web applications. As a Backend Intern, I'm gaining hands-on experience with server management, database design, and building scalable systems.
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 **Current Focus:** Building intelligent systems by embedding AI models into interactive web apps.
-- 🌱 **Learning:** Constantly expanding my skills in AI, machine learning, and cloud technologies.
-- 💼 **Internship:** Diving into real-world challenges as a Backend DevOps Intern.
-- 🎓 **Academic Journey:** Final semester student, passionate about transforming theoretical concepts into practical solutions.
+- 🔭 **Current Focus:** Integrating AI models into interactive web apps.
+- 🌱 **Learning:** Expanding my knowledge in AI, machine learning, and cloud technologies.
+- 💼 **Internship:** Backend Intern with a focus on server management and automation.
+- 🎓 **Academic Journey:** Final semester, turning theoretical concepts into practical solutions.
 
 ---
 
 ## 🛠 Skills & Technologies
-
-
-
-
 
 | Category                  | Technologies |
 |---------------------------|-------------|
@@ -28,13 +28,13 @@ I'm on a journey to blend cutting-edge AI with sleek web applications. As I comp
 | **Tools & DevOps**        | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) <br> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
 | **AI & Machine Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) <br> ![MediaPipe](https://img.shields.io/badge/MediaPipe-FFCA28?style=flat) |
 
-
+---
 
 ## 💡 My Journey in a Nutshell
 
-- **AI-Driven Innovations:** Crafting smart, data-driven solutions that transform how users interact with technology.
-- **Hands-On Experience:** From internships to personal projects, I love tackling challenges that push the boundaries of AI and DevOps.
-- **Continuous Learning:** Every project, course, and collaboration is a stepping stone to mastering the tech world.
+- **AI Innovations:** Building smart, data-driven solutions for interactive technology.
+- **Hands-On Experience:** Tackling real-world challenges through internships and personal projects.
+- **Continuous Growth:** Every project is a step toward mastering tech and engineering.
 
 ---
 
@@ -46,6 +46,8 @@ I'm on a journey to blend cutting-edge AI with sleek web applications. As I comp
 
 ---
 
-
 *“Innovation distinguishes between a leader and a follower.” — Steve Jobs*
 
+---
+
+This should now reflect your role as a Backend Intern. Let me know if you'd like any further modifications!
