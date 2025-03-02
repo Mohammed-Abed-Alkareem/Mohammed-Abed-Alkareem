@@ -1,6 +1,4 @@
-Got it! Here's the updated version of your README with the correct title:
 
----
 
 # Hi, I'm Mohammed Abed Alkareem 👋
 
@@ -50,4 +48,4 @@ I'm a final semester Computer Engineering student specializing in AI, passionate
 
 ---
 
-This should now reflect your role as a Backend Intern. Let me know if you'd like any further modifications!
+
