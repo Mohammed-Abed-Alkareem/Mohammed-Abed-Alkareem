@@ -2,9 +2,9 @@
 
 # Hi, I'm Mohammed Abed Alkareem 👋
 
-> **Computer Engineering Student | AI Enthusiast | Backend Intern**
+> **Computer Engineer | SWE | AI Enthusiast**
 
-I'm a final semester Computer Engineering student specializing in AI, passionate about creating intelligent systems and seamless web applications. As a Backend Intern, I'm gaining hands-on experience with server management, database design, and building scalable systems.
+I’m a Computer Engineer specializing in AI, passionate about creating intelligent systems and seamless web applications. As a Backend Intern, I gained hands-on experience with server management, database design, and building scalable systems.
 
 ---
 
